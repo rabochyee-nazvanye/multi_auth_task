@@ -1,1 +1,1 @@
-FLAG = 'flag'
+FLAG = 'oakland'
